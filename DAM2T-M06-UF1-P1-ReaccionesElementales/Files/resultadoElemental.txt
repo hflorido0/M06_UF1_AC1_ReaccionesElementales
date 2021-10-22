@@ -1,0 +1,33 @@
+Total de personajes: 39
+Total de elementos utilizados: 6
+Total de personajes por elemento: 
+	- A : 5
+	- F : 8
+	- R : 6
+	- T : 4
+	- H : 9
+	- V : 6
+Evaporicacion
+Sobrecarga
+Torbellino
+Cristalizar
+Quemadura
+Cristalizar
+Torbellino
+Cristalizar
+Electro-carga
+Sobrecarga
+Torbellino
+Electro-carga
+Sobrecarga
+Torbellino
+Torbellino
+Quemadura
+Torbellino
+Evaporicacion
+Electro-carga
+Congelar
+Derretido
+Superconductor
+Electro-carga
+Evaporicacion
